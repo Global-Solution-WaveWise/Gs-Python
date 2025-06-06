@@ -94,6 +94,15 @@ O código é modularizado em funções para clareza e manutenção:
 
 ---
 
+## 📄 Documentação do Projeto
+
+Para uma análise mais aprofundada sobre o desenvolvimento, arquitetura e decisões de design deste projeto, consulte a documentação completa:
+
+- 🔗 [Link para a Documentação do Projeto](https://fiapcom-my.sharepoint.com/:w:/g/personal/rm562098_fiap_com_br/Ed25O3rAsMFHnbrSqoH5StYB3EGJ_mOhoRTna3OFqwalLA?e=gTDMhr
+)
+
+---
+
 ## 🧾 Código-Fonte
 
 ```python
@@ -270,6 +279,3 @@ if usuario_validado:
 else:
     # Mensagem exibida se a autenticação falhar.
     print("Acesso negado.")
-
-LINK da documentação:
-https://fiapcom-my.sharepoint.com/:w:/g/personal/rm562098_fiap_com_br/Ed25O3rAsMFHnbrSqoH5StYB3EGJ_mOhoRTna3OFqwalLA?e=gTDMhr
