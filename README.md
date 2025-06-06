@@ -36,6 +36,13 @@ Desenvolver um sistema em Python que permita:
 
 ---
 
+### 🎥 Vídeo Demonstrativo
+
+📺 **Assista ao funcionamento do sistema aqui:**  
+[LINK DO VIDEO](https://youtu.be/H0m_iwinO9k)
+
+---
+
 ## ⚙️ Visão Geral da Solução
 
 O "PrevisãoWave" é um script Python baseado em console que simula um sistema de gerenciamento de previsão do tempo. Ele oferece diferentes interações dependendo do tipo de usuário autenticado.
